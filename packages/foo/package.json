@@ -1,0 +1,9 @@
+{
+  "name": "foo",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "geo-tz": "^7.0.6"
+  }
+}

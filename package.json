@@ -1,0 +1,12 @@
+{
+  "name": "turbo_repro",
+  "private": true,
+  "workspaces": [
+    "packages/foo"
+  ],
+  "version": "1.0.0",
+  "packageManager": "yarn@3.2.2",
+  "devDependencies": {
+    "turbo": "1.10.16"
+  }
+}
